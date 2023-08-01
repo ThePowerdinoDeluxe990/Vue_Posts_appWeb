@@ -1,0 +1,27 @@
+{
+"name": "App_Posts,enVue",
+"short_name": "Vue_post",
+"start_url": "index.html",
+"display": "standalone",
+"description": "App de testeo",
+"lang": "ES",
+"dir": "auto",
+"theme_color": "#432b2b",
+"background_color": "#432b2b",
+"orientation": "any",
+"icons": [
+    {
+        "src": "icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "icon192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "any"
+    }
+]
+
+}
